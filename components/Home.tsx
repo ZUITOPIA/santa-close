@@ -1,9 +1,9 @@
-import styled from "styled-components"
+import styled from "styled-components";
 
 const Style = {
   Wrapper: styled.div``,
-}
+};
 
 export default function Home() {
-  return <Style.Wrapper>Hello World!</Style.Wrapper>
+  return <Style.Wrapper>santa close</Style.Wrapper>;
 }
